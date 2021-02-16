@@ -1,1 +1,3 @@
-# A-Company-Landing-Page
+# A-Company-Landing-Page                                                                                                                          
+HTML + CSS                                                                                                                                   
+A mobile responsove comapany landing page 
